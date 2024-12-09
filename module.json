@@ -26,8 +26,8 @@
     }
   ],
   "url": "https://www.pathfinderinfinite.com/product/504495/A-Bond-Bound-with-Ribbon",
-  "download": "https://github.com/Jay-Scott-Games/a-bond-bound-with-rhythm/raw/main/a-bond-bound-with-rhythm.zip", 
-  "manifest": "https://github.com/Jay-Scott-Games/a-bond-bound-with-rhythm/raw/main/module.json",
+  "download": "https://raw.githubusercontent.com/Jay-Scott-Games/a-bond-bound-with-rhythm/main/a-bond-bound-with-rhythm.zip", 
+  "manifest": "https://raw.githubusercontent.com/Jay-Scott-Games/a-bond-bound-with-rhythm/main/module.json",
   "packs": [
     {
       "name": "a-bond-bound-with-ribbon-adventure",
