@@ -1,5 +1,5 @@
 {
-  "title": "A Bond Bound with Ribbon Adventure",
+  "title": "JSG - A Bond Bound with Ribbon Adventure",
   "id": "a-bond-bound-with-ribbon",
   "version": "1.0.0",
   "compatibility": {
@@ -15,7 +15,7 @@
       }
     ]
   },
-  "description": "Foundry Module for A Bond Bound with Ribbon\nA festive and frisky one-shot adventure for 4th-level characters.\n\nWinter Week is a time for feasting, friends, and casting fear aside to focus on your heart’s desire. To mark the beginning of the festival, the PCs attend the Ribbons and Blade celebration, where a night of singing and drinking unexpectedly turns into a showdown between a devil and celestial, a confrontation over a stolen diabolic contract. The PCs fight hellish minions and navigate a hedge maze before confronting the devil in a battle to save a precious soul.",
+  "description": "Foundry Module for A Bond Bound with Ribbon\nA festive and frisky one-shot adventure for 4th-level characters.\n\nWinter Week is a time for feasting, friends, and casting fear aside to focus on your heart’s desire. To mark the beginning of the festival, the PCs attend the Ribbons and Blade celebration, where a night of singing and drinking unexpectedly turns into a showdown between a devil and celestial, a confrontation over a stolen diabolic contract. The PCs fight hellish minions and navigate a hedge maze before confronting the devil in a battle to save a precious soul.\n\nWritten by Jay Scott - www.jayscottgames.com\nArt assets - Designed by Freepik (www.freepik.com)",
   "authors": [
     {
       "name": "Jay Scott",
@@ -26,19 +26,19 @@
     }
   ],
   "url": "https://www.pathfinderinfinite.com/product/504495/A-Bond-Bound-with-Ribbon",
-  "download": "https://github.com/Jay-Scott-Games/a-bond-bound-with-rhythm/raw/refs/heads/main/a-bond-bound-with-ribbon.zip", 
-  "manifest": "https://github.com/Jay-Scott-Games/a-bond-bound-with-rhythm/raw/refs/heads/main/module.json",
+  "download": "https://github.com/Jay-Scott-Games/a-bond-bound-with-rhythm/raw/main/a-bond-bound-with-rhythm.zip",
+  "manifest": "https://github.com/Jay-Scott-Games/a-bond-bound-with-rhythm/raw/main/module.json",
   "packs": [
     {
       "name": "a-bond-bound-with-ribbon-adventure",
       "label": "A Bond Bound with Ribbon Adventure",
       "path": "packs/a-bond-bound-with-ribbon-adventure",
       "type": "Adventure",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     }
   ]
 }
