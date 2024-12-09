@@ -1,0 +1,44 @@
+{
+  "id": "a-bond-bound-with-ribbon",
+  "title": "A Bond Bound with Ribbon Adventure",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Foundry Module for A Bond Bound with Ribbon\nA festive and frisky one-shot adventure for 4th-level characters.\n\nWinter Week is a time for feasting, friends, and casting fear aside to focus on your heart’s desire. To mark the beginning of the festival, the PCs attend the Ribbons and Blade celebration, where a night of singing and drinking unexpectedly turns into a showdown between a devil and celestial, a confrontation over a stolen diabolic contract. The PCs fight hellish minions and navigate a hedge maze before confronting the devil in a battle to save a precious soul.",
+  "authors": [
+    {
+      "name": "Jay Scott",
+      "email": "jscottgm73@gmail.com",
+      "url": "jayscottgames.com",
+      "discord": "ExternalSplit",
+      "flags": {}
+    }
+  ],
+  "url": "jayscottgames.com",
+  "manifest": "https://nightfallstation.com/pathfinder-infinite/modules/the-isle-in-the-mist/module.json",
+  "download": "https://nightfallstation.com/pathfinder-infinite/modules/the-isle-in-the-mist/module.zip",
+  "packs": [
+    {
+      "name": "a-bond-bound-with-ribbon-adventure",
+      "label": "A Bond Bound with Ribbon Adventure",
+      "path": "packs/a-bond-bound-with-ribbon-adventure",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    }
+  ]
+}
