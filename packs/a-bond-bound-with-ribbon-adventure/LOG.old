@@ -1,8 +1,6 @@
-2024/12/09-13:36:08.473868 7f6942f080 Recovering log #8
-2024/12/09-13:36:08.491683 7f6942f080 Delete type=3 #6
-2024/12/09-13:36:08.491849 7f6942f080 Delete type=0 #8
-2024/12/09-13:42:58.717869 7d4347f080 Level-0 table #13: started
-2024/12/09-13:42:58.717929 7d4347f080 Level-0 table #13: 0 bytes OK
-2024/12/09-13:42:58.723009 7d4347f080 Delete type=0 #11
-2024/12/09-13:42:58.737117 7d4347f080 Manual compaction at level-0 from '!adventures!8As1cchl2l3LgYdO' @ 72057594037927935 : 1 .. '!adventures!8As1cchl2l3LgYdO' @ 0 : 0; will stop at (end)
-2024/12/09-13:42:58.737181 7d4347f080 Manual compaction at level-1 from '!adventures!8As1cchl2l3LgYdO' @ 72057594037927935 : 1 .. '!adventures!8As1cchl2l3LgYdO' @ 0 : 0; will stop at (end)
+2024/12/09-19:51:06.729638 7f8478f080 Log #15: 1 ops saved to Table #16 OK
+2024/12/09-19:51:06.729880 7f8478f080 Archiving /home/jsvb/foundrydata/Data/modules/a-bond-bound-with-ribbon/packs/a-bond-bound-with-ribbon-adventure/000015.log: OK
+2024/12/09-19:51:06.735234 7f8478f080 Table #9: 2 entries OK
+2024/12/09-19:51:06.735756 7f8478f080 Table #16: 1 entries OK
+2024/12/09-19:51:06.736073 7f8478f080 Archiving /home/jsvb/foundrydata/Data/modules/a-bond-bound-with-ribbon/packs/a-bond-bound-with-ribbon-adventure/MANIFEST-000014: OK
+2024/12/09-19:51:06.741734 7f8478f080 **** Repaired leveldb /home/jsvb/foundrydata/Data/modules/a-bond-bound-with-ribbon/packs/a-bond-bound-with-ribbon-adventure; recovered 2 files; 211729 bytes. Some data may have been lost. ****
