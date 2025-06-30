@@ -1,10 +1,10 @@
 {
   "title": "JSG - A Bond Bound with Ribbon Adventure",
   "id": "a-bond-bound-with-ribbon",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "13"
   },
   "relationships": {
     "systems": [
